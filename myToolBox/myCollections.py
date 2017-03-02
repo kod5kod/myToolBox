@@ -1,4 +1,6 @@
 
+#!/usr/bin/env python
+
 # Everyday functions
 
 def seconds_to_hms(seconds):
